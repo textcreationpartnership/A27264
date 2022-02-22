@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend being an historical account of the affairs of Hungary, more particularly relating to Buda and how treacherously it was surpized by Solyman the Magnificent from the Christians Anno 1541 : as also an account of the late siege anno 1684.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27264</idno>
+            <idno type="STC">Wing B17</idno>
+            <idno type="STC">ESTC R5133</idno>
+            <idno type="EEBO-CITATION">13684073</idno>
+            <idno type="OCLC">ocm 13684073</idno>
+            <idno type="VID">101335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 833:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend being an historical account of the affairs of Hungary, more particularly relating to Buda and how treacherously it was surpized by Solyman the Magnificent from the Christians Anno 1541 : as also an account of the late siege anno 1684.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>W. Davis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: A.B.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>"Entered according to order."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Süleyman --  I, --  Sultan of the Turks, 1494 or 5-1566.</term>
+               <term>Hungary --  History --  1526-1683 --  Sources.</term>
+               <term>Buda (Hungary) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101335:1"/>
+            <!-- PDF PAGE 74 -->
+            <pb facs="tcp:101335:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <head>A LETTER TO A FRIEND: BEING AN Hiſtorical Account OF The Affairs of HUNGARY: More particularly relating to BUDA, And how Treacherouſly it was Surpized <hi>By Solyman the Magnificent</hi> From the CHRISTIANS, <hi>Anno</hi> 1541.</head>
+            <head type="sub">AS ALSO, An Account of the late Siege, ANNO 1684.</head>
+            <argument>
+               <p>Entred according to ORDER.</p>
+            </argument>
+            <p>THat I might not ſeem to put a greater value on my Trouble than your Satiſ<g ref="char:EOLhyphen"/>faction, I prevent being further impor<g ref="char:EOLhyphen"/>tuned, by ſending you ſuch a Relation of <hi>Buda,</hi> that may perhaps leave you as little ſollicitous after the Miſcarriages therein, as fully ſatisfied in the Event. I will not detain you with unneceſ<g ref="char:EOLhyphen"/>ſary Particulars of what is paſt, longer than to put into your hand the Clue that muſt guide you to the preſent Conjunctures. I reach therefore no further than the year 1526<g ref="char:punc">▪</g> when the Royal Line of the Kingdom of <hi>Hungary</hi> was extinct in the perſon of King <hi>Lewis;</hi> and this by the coun<g ref="char:EOLhyphen"/>ſel and raſhneſs of a Prieſt, who was not onely made General of the Royal Army, but precipita<g ref="char:EOLhyphen"/>ted that King to engage with <hi>Solyman</hi> the Magni<g ref="char:EOLhyphen"/>ficent, in ſo unequal a Battel, as 30000 to 250000 men.</p>
+            <p>And herein I would have you take notice of the general Diſſatisfaction of the Nobility, who
+<pb n="2" facs="tcp:101335:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 75 -->thought it ſtrange to take their Commands from one whom, though they might allow qualified to give Rules in a Convent, they thought not fit to give Order in a Royal Army, or lead a Flock to the Wolf of the Eaſt. And further, that the En<g ref="char:EOLhyphen"/>gagement with <hi>Solyman</hi> was carried on by the a<g ref="char:EOLhyphen"/>foreſaid Prelate, without the approbation of the reſt of the Nobility, who would have perſwa<g ref="char:EOLhyphen"/>ded the young King to have deferred it till the coming up of the reſt of his Forces, which were ſufficient, and in their way to his reinforcement. The end of this unfortunate Prince raiſed two Crown'd Heads, and a Civil War in <hi>Hungary,</hi> between <hi>Ferdinand</hi> and <hi>John Zapulio. Ferdinand</hi> could not bear with half an Empire; and <hi>John</hi> could be contented to be a King, though Tributa<g ref="char:EOLhyphen"/>ry. The former hath recourſe to <hi>Charles</hi> the Fifth, the latter to the <hi>Ottoman</hi> Port. But after they had both ſufficiently wearied themſelves, and haraſſed their Subjects, they could diſpenſe with the Rivalty, and content themſelves with their Poſſeſſions. During this Conteſt, it comes in to ſpeak ſomething of <hi>Buda;</hi> and to tell you, that <hi>Solyman</hi> took the ſame from the Imperialiſts, and re-inſtated King <hi>John</hi> therein, as well as in his Kingdoms, making himſelf Arbiter of the dif<g ref="char:EOLhyphen"/>ferences between the two Chriſtian Princes. In reſtoring King <hi>John, Solyman</hi> did like a magnifi<g ref="char:EOLhyphen"/>cent Protector; but after the death of King <hi>John,</hi> that he ſurprized it by Treachery, he ſhewed the other ſide of the Medal.</p>
+            <p>For <hi>Solyman</hi> after the deceaſe of King <hi>John,</hi> viz, in the year 1541, entred <hi>Hungary</hi> with a For<g ref="char:EOLhyphen"/>midable Army; and coming before <hi>Buda,</hi> ſent to complement the Queen (Wife of the late King <hi>John</hi>) on the part of himſelf and his two Sons <hi>Selin,</hi> and <hi>Bajazet,</hi> whom the Sultan had brought with him. He deſired alſo to ſee his Pupil (ſon of the late King <hi>John</hi>) whom he had taken into his protection. The young Prince with an ho<g ref="char:EOLhyphen"/>nourable Equipage, was ſent to the Camp, accom<g ref="char:EOLhyphen"/>panied with the principal Nobility of the King<g ref="char:EOLhyphen"/>dom. <hi>Solyman</hi> cauſed a ſumptuous Banquet to be prepared for the Noblemen; and in the mean time ſending back the young Prince to the Queen his Mother, attended under pretence of honour<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him, with many Officers of the <hi>Ottoman</hi> Ar<g ref="char:EOLhyphen"/>my, who in a careleſs manner ſeemed to enter the City, more out of curioſity to ſee, than to ſeize <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſame, found no difficulty in ſecuring the Gates and principal places thereof. Whilſt this part was acting in the City, the Council being called <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Camp, 'twas propoſed to ſend the Queen <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Poland,</hi> and the young Prince to <hi>Conſtantinople,</hi> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be bred up in the Mahometan Religion; to <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake <hi>Hungary</hi> a Province of the <hi>Ottoman</hi> Em<g ref="char:EOLhyphen"/>pire; to cut of<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nobility, to ſpare the com<g ref="char:EOLhyphen"/>mon people to cultivate the Lands, and leave a ſufficient Body of Horſe and Foot on the Con<g ref="char:EOLhyphen"/>fines for the guarding of the Kingdom: at <hi>Soly<g ref="char:EOLhyphen"/>man</hi> would not conſent hereto; ſaying, that this <hi>Hungarian</hi> Horſe at firſt ought to be treated with fair means and eaſie Acoutrements, by degrees making the uſage harder, till ſuch time as the ma<g ref="char:EOLhyphen"/>ſtery were gained. The Ja<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>izaries being now maſters of <hi>Buda,</hi> the Queen was told, that the Sultan intended with his own Forces to ſecure the City from the attempts of <hi>Ferdinand,</hi> till ſuch time as the young Prince was come to full age. That ſhe muſt repair to the Territories of <hi>Tran<g ref="char:EOLhyphen"/>ſylvania;</hi> and that for her Aſſiſtant in the Go<g ref="char:EOLhyphen"/>vernment, was appointed the Biſhop of <hi>Waradine,</hi> the ſame perſon that was Tutor to the late King her Husband, and Treaſurer of the Kingdom.</p>
+            <p>The Nobility, that expected their Banquet would end in bloud, and their Heads to compleat the laſt Act of this Tragedy, at length by the Queens interceſſion, got their Liberty of <hi>Solyman,</hi> who having well Garriſon'd the place, and left ſtrong Guards on the Frontiers, returned to <hi>Con<g ref="char:EOLhyphen"/>ſtantinople.</hi>
+            </p>
+            <p>Thus did this great City of <hi>Buda,</hi> Metropolis of <hi>Hungary,</hi> by changing its Maſter, in an inſtant loſe its Countenance and Luſtre. The Nobility were no longer to be found there, but filled with Souldiers and violence: Liberty and Property became Servitude and Want. The Chriſtian Re<g ref="char:EOLhyphen"/>ligion was now by ſufferance; the Churches were converted to Moſques, <hi>&amp;c.</hi> And if this be the fruit of Protection, I am to ſeek for a Species of Oppreſſion.</p>
+            <p>The Kingdom being thus divided between <hi>So<g ref="char:EOLhyphen"/>lyman</hi> and <hi>Ferdinand,</hi> could not long continue in any ſetled poſture; for the former was ſtill en<g ref="char:EOLhyphen"/>croaching; and <hi>Charles</hi> the Fifth, who had no genius to defend <hi>Hungary,</hi> though his Brothers Country, and the Bulwark of <hi>Germany,</hi> &amp;c. was driving on his unfortunate attempts on <hi>Algiers</hi> and <hi>Barbary,</hi> making no account of the preſer<g ref="char:EOLhyphen"/>vation of his own, whilſt all the World were of opinion, 'twere better to have defended <hi>Hungary,</hi> than to have conquered all <hi>Africa.</hi> However the ill ſucceſs at <hi>Algiers,</hi> cauſed in the year 1547, <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 7. a Truce between <hi>Charles Ferdinand</hi> and <hi>Solyman,</hi> for Five years, paying Thirty thouſand <hi>Hungarian</hi> (Ducats) yearly Tribute for what <hi>Ferdinand</hi> poſſeſſed in <hi>Hungary.</hi>
+            </p>
+            <p>The Queen, whom <hi>Solyman,</hi> upon the ſurprize of <hi>Buda,</hi> had ſent to <hi>Tranſylvania,</hi> made onely the the figure of a Queen there; for <hi>George</hi> the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Waradine,</hi> afterwards Cardinal, was her Governour: And as another Prieſt was the ruine of <hi>Hungary,</hi> ſo was this of <hi>Tranſylvania.</hi> For the Queen, oppreſt by the Monk, makes application to <hi>Solyman,</hi> who eſpouſed her Intereſt; and <hi>Fer<g ref="char:EOLhyphen"/>dinand</hi> that of the Prelate: And betwixt the Ar<g ref="char:EOLhyphen"/>tifices and force of theſe two, the Queen was made unwillingly, to reſign; taking as an Equivalent from <hi>Ferdinand</hi> upon <hi>Sileſia</hi> Twenty five thouſand Crowns Revenue yearly for the young Prince <hi>John Sygiſmund</hi> her ſon; and Fifty thouſand for her Dowry: And that the Prince ſhould marry the Daughter of <hi>Ferdinand.</hi>
+            </p>
+            <p>The Queen diſguſted, ſoon after makes her Ap<g ref="char:EOLhyphen"/>plications to <hi>Solyman</hi> then in <hi>Perſia;</hi> who ordered <hi>Meemet</hi> Baſſa to put the Queen in poſſeſſion of the
+<pb n="3" facs="tcp:101335:2"/>
+               <!-- PDF PAGE 75 -->Province: Which being done, and things being not ſo well with <hi>Ferdinand</hi> as not to ſuſpect the Cardinal, there was an Order ſent, <hi>That they ſhould do with the Cardinal what they thought fit for the acquiring and keeping the poſſeſſion of</hi> Tranſylva<g ref="char:EOLhyphen"/>nia, which was taken for a Sentence of Death; upon which the Cardinal was ſtobbed: And for this Murther did the Pope excommunicate <hi>Fer<g ref="char:EOLhyphen"/>dinand,</hi> though afterwards abſolved: and <hi>Tran<g ref="char:EOLhyphen"/>ſylvania</hi> wholly ſubject to him, <hi>Anno</hi> 1552.</p>
+            <p>The Queen once more ſued for Protection of <hi>Solyman;</hi> and after Four years being out of Poſ<g ref="char:EOLhyphen"/>ſeſſion, regains the Principality for her ſon <hi>John Sy<g ref="char:EOLhyphen"/>giſmund,</hi> by the beating out of <hi>Ferdinand.</hi> She died <hi>Anno</hi> 1554.</p>
+            <p>
+               <hi>Charles</hi> the Fifth reſigning; and <hi>Ferdinand</hi> the Firſt being made Emperour, he accompanied his Son <hi>Maximilian</hi> the Second to the Dyet of <hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> where he was elected King in <hi>September,</hi> 1562. though not without a buſtle; of which I ſhall ſay ſomething.</p>
+            <p>At the Dyet there was a Queſtion ſtarted a<g ref="char:EOLhyphen"/>bout the Election: For <hi>Ferdinand</hi> inſiſted on it, That according to the Inſtrument ſtipulated be<g ref="char:EOLhyphen"/>tween him and <hi>Ladiſlaus,</hi> (Father of King <hi>Lew<g ref="char:EOLhyphen"/>is</hi>) there was nothing more to be done, but to declare his Son King; becauſe Election ought to have no place, but upon the failure of the <hi>Auſtrian</hi> Line.</p>
+            <p>But the <hi>Hungarians</hi> ſtood upon it, that thoſe Agreements were obtained by violence on the part of <hi>Ladiſlaus;</hi> and covetouſneſs on the part of the Palatine of that time, who was gained with Preſents; ſo that his Aſſent was not ſuffici<g ref="char:EOLhyphen"/>ent to binde the Univerſality of the Kingdom, who always reſerve to its ſelf a free will to chuſe its King: As alſo ſince that the Election might not be awed by any Authority whatſoever, it hath been decreed ſince the year 1498. That to the Dy<g ref="char:EOLhyphen"/>et deſign'd for the Royal Creation, there ſhall inter<g ref="char:EOLhyphen"/>vene no Miniſters of any Forrein Prince; ſo that if there ſhould happen a Conſent, that <hi>Maximilian</hi> ſhould be their King, they will wholly have it by Election, and not by Declaration; which Election hath all along to our days continued, notwithſtan<g ref="char:EOLhyphen"/>ding the Inſtruments and Compacts as before re<g ref="char:EOLhyphen"/>giſtred.</p>
+            <p>
+               <hi>Ferdinand</hi> the Firſt died <hi>Anno</hi> 1564, at the 61 year of his age; he wanted no will but help to deliver his Country from the Turks. <hi>Maximi<g ref="char:EOLhyphen"/>lian</hi> was of quiet Inclinations, yet upon his com<g ref="char:EOLhyphen"/>ing in a Council was called; wherein, the Truce being out, they were to think of renewing the Peace, or of making a War. But this was diver<g ref="char:EOLhyphen"/>ted with the Turks, upon the Invaſion of <hi>John Sygiſmund</hi> Prince of <hi>Tranſylvania,</hi> who following the ſteps of his Father adhered to the Port after the death of <hi>Ferdinand.</hi> But being too weak for <hi>Maximilian,</hi> he called in the Turk, <hi>Anno</hi> 1566. and at the Siege of <hi>Zighet Solyman</hi> died before the taking thereof, and the brave <hi>Nicholas Serini</hi> was killed, for which <hi>Maximilian</hi> was blamed. But the next year was a Peace of eight years made be<g ref="char:EOLhyphen"/>tween <hi>Maxmilian, Selin</hi> the Second, and <hi>John Sy<g ref="char:EOLhyphen"/>giſmund,</hi> who ſoon after died, being the laſt of the Line of <hi>Sapulia,</hi> to the great ſatisfaction of the Zealous, who were glad to ſee a Race that had its Center in <hi>Conſtantinople</hi> rooted out.</p>
+            <p>Now ſince there depends much on this Peace, I ſhall be ſhort.</p>
+            <p>
+               <hi>They were reciprocally to forget Injuries.</hi>
+            </p>
+            <p>
+               <hi>That laying aſide the Title of King, taken upon the account of being born a King, he ſhould be con<g ref="char:EOLhyphen"/>tented with that of Serene Prince.</hi>
+            </p>
+            <p>
+               <hi>That the <g ref="char:V">Ʋ</g>pper</hi> Tranſylvania <hi>ſhould be enjoyed by</hi> Sygiſmund <hi>by an Hereditary Title; and the Lower during his Life only, after which it ſhould paſs to</hi> Caeſar.</p>
+            <p>
+               <hi>That if by the Turks he ſhould be driven out of</hi> Tranſylvania, <hi>he ſhould repair to</hi> Sileſia <hi>to the Ca<g ref="char:EOLhyphen"/>ſtle of</hi> Opolia.</p>
+            <p>
+               <hi>That if the Turks ſhould attack the Province,</hi> Ma<g ref="char:EOLhyphen"/>ximilian <hi>ſhould come to his aſſiſtance.</hi>
+            </p>
+            <p>
+               <hi>That if</hi> Sygiſmund <hi>ſhould die without Iſſue, there ſhould be choſen by the States of</hi> Tranſylvania <hi>ano<g ref="char:EOLhyphen"/>ther Prince inſeperably united to the party of the Houſe of</hi> Auſtria.</p>
+            <p>Theſe Capitulations were alſo ratified by the <hi>Tranſylvanians,</hi> but to be kept from the Turks, <hi>&amp;c.</hi> a miſerable condition for Chriſtian Princes.</p>
+            <p>Beſides the <hi>Hungarian</hi> Penſion, little hapned till the taking of <hi>Copan</hi> by <hi>Serini</hi> from the Turks, <hi>Anno</hi> 1588. But this was diſowned by <hi>Maximi<g ref="char:EOLhyphen"/>lian.</hi> Something more I would have ſaid, but that the bulk of my Letter is already too big. I ſhall therefore lay aſide all other things, and con<g ref="char:EOLhyphen"/>clude with the Affairs of <hi>Hungary</hi> and <hi>Buda</hi> as they now ſtand.</p>
+            <p>The early Succeſs of the Campaign gave the Imperialiſts hopes that nothing would ſtand be<g ref="char:EOLhyphen"/>fore them: For by the latter end of <hi>June</hi> they had routed the Turkiſh Army near <hi>Vaccia.</hi> In the beginning of <hi>July</hi> they had taken <hi>Peſt</hi> and the Bridge of Boats. By the middle of <hi>July</hi> had beaten the Turkiſh Camp that lay about <hi>Buda,</hi> and taken the Old Town; and went ſo on with their Mines, Works, <hi>&amp;c.</hi> that they doubted not but to be Maſters of the place in a very ſhort time.</p>
+            <p>That in <hi>July</hi> they reckoned their Forces Forty thouſand men, their Army in a flouriſhing con<g ref="char:EOLhyphen"/>dition. That the Walls and Caſtles of the Town were old and irregular. That they were lodged in the upper Ditch. That if <hi>Leſhley</hi> ſhould joyn them they would be Fifty thouſand ſtrong. That they had taken <hi>Gerarsberg,</hi> from whence they did very much incommode the Beſieged, Nay, ſo confident were they of maſtering the place, that on <hi>Auguſt</hi> the 9th 'twas reported that it was ta<g ref="char:EOLhyphen"/>ken by Aſſault: For that there were differen<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> between the Officers of the Garriſon; that they wanted all manner of Neceſſaries and Proviſions, that the Garriſon diminiſhed.</p>
+            <p>That <hi>July</hi> 22th, the Duke of <hi>Lorain</hi> had bea<g ref="char:EOLhyphen"/>ten the Turkiſh Camp that was under the Seraſ<g ref="char:EOLhyphen"/>quier,
+<pb n="4" facs="tcp:101335:3"/>
+               <!-- PDF PAGE 76 -->for the Relief of <hi>Buda.</hi> That the Army was Twenty five thouſand ſtrong before the ar<g ref="char:EOLhyphen"/>rival of the Duke of <hi>Bavaria</hi>'s Forces, who were ſome, about the middle of <hi>September</hi> at <hi>Buda;</hi> o<g ref="char:EOLhyphen"/>thers, not till towards the latter end. But now of a ſudden the faces of things began to alter: For on the 23th of <hi>September</hi> the Turks are the Agreſſors, and aſſault the Imperial Camp. The Salleys are often and ſtrong, the wet weather incommoded the Chriſtians; and though they have had Recrits of Men and Proviſions at times, yet they have not come ſeaſonable, that the Ar<g ref="char:EOLhyphen"/>my decayed faſter than ſupplied. And though on the 12th of <hi>October</hi> a general Aſſault be intended, yet the Seraſquier drawing nearer the Imperial Camp, maketh other meaſures, the Aſſault is put off to a further time, hoping that Neceſſity would reduce the place, or elſe the Seraſquier remove further from them.</p>
+            <p>But whilſt every one had their eyes on the Se<g ref="char:EOLhyphen"/>raſquier, judging the Relief would come from that ſide of the <hi>Danube,</hi> on the 24th of <hi>October,</hi> the Baſſa of <hi>Agria,</hi> from <hi>Peſt</hi>-ſide, ſupplied the Town with Men, Proviſions, and Neceſſaries: And on the 30 of <hi>October,</hi> the Dukes of <hi>Lorain</hi> and <hi>Bavaria</hi> ſhewed their Conduct, not enough to be admired, in bringing off an Army ſafe under ſuch Circumſtances, from among ſuch bad Neigh<g ref="char:EOLhyphen"/>bours: For it was as if both parties were conten<g ref="char:EOLhyphen"/>ted to let each other draw off to take breath a<g ref="char:EOLhyphen"/>gainſt another Encounter. Sir, this is at preſent all I have to trouble you with. I am</p>
+            <closer>
+               <dateline>
+                  <date>November 14. 1684.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours,</hi> &amp;c. <hi>A. B.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Davis</hi> in <hi>Amen-corner.</hi>
+            </p>
+            <pb facs="tcp:101335:4"/>
+            <!-- PDF PAGE 77 -->
+            <pb facs="tcp:101335:4"/>
+            <!-- PDF PAGE 77 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:101335:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:101335:5"/>
+            <!-- PDF PAGE 78 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:101335:6"/>
+            <!-- PDF PAGE 79 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
